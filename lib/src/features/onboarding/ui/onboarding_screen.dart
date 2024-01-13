@@ -7,7 +7,7 @@ class OnBoardingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SvgPicture.asset(''),
+      body: SvgPicture.asset('assets/svgs/docdoc_logo.svg'),
     );
   }
 }
